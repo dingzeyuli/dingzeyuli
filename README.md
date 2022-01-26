@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🏡 &nbsp;&nbsp; I am a Research Scientist at Adobe Research.
+🏡 &nbsp;&nbsp; I am a Senior Research Scientist at Adobe Research.
 
 🎓 &nbsp;&nbsp; I am interested in audiovisual cross-modal media sensing and synthesis using tools from computer vision, graphics, deep learning, and HCI. 
 
